@@ -1,8 +1,5 @@
 <h2>👋👋👋👋👋</h2>
 
-<h3>Hello, I'm Connor! I'm a Software Engineer who works for Skyscanner. ✈️</h3>
-
-<br />
 <p>🌱 I'm currently learning... <strong>more about the Model Context Protocol (MCP) standard.</strong></p>
 <p>💬 Ask me about... <strong>responsive web development</strong> and <strong>web accessibility</strong>!</p>
 <br />
