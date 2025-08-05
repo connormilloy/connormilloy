@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2>👋👋👋👋👋</h2>
 
-<!--
-**connormilloy/connormilloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Hello, I'm Connor! I'm a Software Engineer who works for Skyscanner. ✈️</h3>
 
-Here are some ideas to get you started:
+<br />
+<p>🌱 I'm currently learning... <strong>more about the Model Context Protocol (MCP) standard.</strong></p>
+<p>💬 Ask me about... <strong>responsive web development</strong> and <strong>web accessibility</strong>!</p>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My personal website with some of my projects can be found at https://milloy.dev.
+<hr />
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/connor-milloy-0570a4207)
